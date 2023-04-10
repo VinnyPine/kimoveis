@@ -1,6 +1,6 @@
 # Aplicação de gerenciamento de propriedades imobiliárias
 
-Esta é uma aplicação que tem como objetivo gerenciar propriedades imobiliárias. Através desta aplicação, é possível cadastrar novas propriedades, atualizar as informações de propriedades existentes e visualizar informações sobre todas as propriedades registradas.
+Esta é uma aplicação que tem como objetivo gerenciar propriedades imobiliárias. Através desta aplicação, é possível cadastrar novas propriedades, atualizar as informações de propriedades existentes e visualizar informações sobre todas as propriedades registradas. Também sendo possível cadastrar usuários e fazer agendamentos para visita nos imóveis.
 
 ## Tecnologias Utilizadas
 
